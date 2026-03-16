@@ -4,19 +4,18 @@ This repository contains my solutions to various competitive programming problem
 
 ## Sessions & Educational Content
 
-| Date | Topic | Resource | Key Topics Covered |
-| :--- | :--- | :--- | :--- |
-| 2026-03-15 | Dynamic Programming | [📺 YouTube](LINK_HERE) | Memoization, Tabulation, Knapsack |
-| 2026-03-10 | Graph Theory | [📺 YouTube](LINK_HERE) | BFS, DFS, Dijkstra's Algorithm |
-| 2026-03-05 | String Algorithms | [📺 YouTube](LINK_HERE) | Hashing, Prefix Function |
+ Topic | Resource | Key Topics Covered |
+ :--- | :--- | :--- |
+ Dynamic Programming | [📺 YouTube](LINK_HERE) | Memoization, Tabulation, Knapsack |
+ Graph Theory | [📺 YouTube](LINK_HERE) | BFS, DFS, Dijkstra's Algorithm |
+ String Algorithms | [📺 YouTube](LINK_HERE) | Hashing, Prefix Function |
 
 ---
 
 ## Resources & Links
 * **YouTube Playlist:** [My CP Sessions](LINK_HERE)
-* **Codeforces Profile:** [haroun101](https://codeforces.com/profile/haroun101)
-* **Study Sheet:** [Google Sheets / Notion Link](LINK_HERE)
-
+* **Codeforces Profile:** [Saeed_Haroun]([https://codeforces.com/profile/Saeed_Haroun])
+  
 ## 🛠 Tech Stack & Environment
 * **Language:** C++17 or C++20
 * **OS:** Ubuntu 24.04 (Noble Numbat)
