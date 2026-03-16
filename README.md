@@ -3,7 +3,7 @@
 This repository contains my solutions to various competitive programming problems, along with recordings to my sessions.
 
 ## Resources & Links
-* **YouTube Playlist:** [My CP Sessions](LINK_HERE)
+* **YouTube Playlist:** [My CP Sessions](https://youtube.com/playlist?list=PLiXFhvyUfqm7Z07q7_ZsXrVcZK1zGI6rb&si=1vDuZ23l421pvE9s)
 * **Codeforces Profile:** [Saeed_Haroun](https://codeforces.com/profile/Saeed_Haroun)
   
 ## 🛠 Tech Stack & Environment
