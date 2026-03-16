@@ -6,8 +6,8 @@ This repository contains my solutions to various competitive programming problem
 * **YouTube Playlist:** [My CP Sessions](https://youtube.com/playlist?list=PLiXFhvyUfqm7Z07q7_ZsXrVcZK1zGI6rb&si=1vDuZ23l421pvE9s)
 * **Codeforces Profile:** [Saeed_Haroun](https://codeforces.com/profile/Saeed_Haroun)
   
-## 🛠 Tech Stack & Environment
+## Environment
 * **Language:** C++17 or C++20
-* **OS:** Ubuntu 24.04 (Noble Numbat)
+* **OS:** Ubuntu 24.04
 * **Editor:** i3wm + Terminal-based workflow
 
