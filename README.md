@@ -14,7 +14,7 @@ This repository contains my solutions to various competitive programming problem
 
 ## Resources & Links
 * **YouTube Playlist:** [My CP Sessions](LINK_HERE)
-* **Codeforces Profile:** [Saeed_Haroun]([https://codeforces.com/profile/Saeed_Haroun])
+* **Codeforces Profile:** [Saeed_Haroun](https://codeforces.com/profile/Saeed_Haroun)
   
 ## 🛠 Tech Stack & Environment
 * **Language:** C++17 or C++20
