@@ -23,19 +23,16 @@ ostream &operator <<(ostream &out, const vector<T> &v) {
 }
 
 const int N = 1e5 + 5, M = N, MOD = 1e9 + 7;
-/* https://codeforces.com/edu/course/2/lesson/6/3/practice/contest/285083/problem/B */
+/* https://atcoder.jp/contests/abc205/tasks/abc205_d */
 void solve() {
     int n , q; cin >> n >> q;
     vector<int> a(n); cin >> a;
     sort(all(a));
-
-
-    cerr <<  lower_bound(all(a) , 0) - a.begin() << endl;
+    
     while(q--){
         
         int k ; cin >> k;
-        int l = 0 , r = 200 , ans = 0 , mid;
-        
+        int l = 0 , r = 2e18 , ans = 0 , mid;
         
         while(l <= r){
             mid = l + (r - l) / 2;
